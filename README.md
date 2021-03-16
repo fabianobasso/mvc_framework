@@ -6,7 +6,7 @@
 
 Nesse projeto eu criei um mini framework para trabalhar com arquitetura MVC em php.
 Ele me facilita muito em meus projetos usando php, com esse mini framework consigo agilizar meu trabalho apenas configurando de acordo com cada projeto.
-Meu objetivo aqui foi mostrar do sou capaz usando apenas php e incluir mais esse projeto como no meu currículo.
+Meu objetivo aqui foi mostrar do sou capaz usando php e incluir mais esse projeto no meu currículo.
 
 - Model -> A responsabilidade é representar o negócio. Também é responsável pelo acesso e manipulação dos dados da aplicação.
 - View -> É responsável pela interface que será apresentada, mostrando as informações do model para o usuário.
