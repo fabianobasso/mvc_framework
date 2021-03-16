@@ -1,4 +1,4 @@
-# Framawork MVC
+# Framework MVC
 
 [![GitHub](https://img.shields.io/github/license/fabianobasso/Jogo_De_Xadrez)](https://github.com/fabianobasso/mvc_framework/blob/master/LICENSE) 
 
