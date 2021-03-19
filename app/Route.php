@@ -23,6 +23,12 @@ class Route extends Bootstrap{
             'action' => 'sobreNos' 
         );
 
+        $routes['notFound'] = array(
+            'route' => '/not_found',
+            'controller' => 'errorController',
+            'action' => 'notFound' 
+        );
+
         $this->setRoutes($routes);
     }
 

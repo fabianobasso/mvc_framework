@@ -45,7 +45,7 @@ abstract class Bootstrap{
         }
         
         if(!$controller){
-            echo 'controller não exite';
+            header('Location: /not_found');
         }
         
 
